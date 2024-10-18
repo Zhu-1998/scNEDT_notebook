@@ -4,7 +4,6 @@ scNEDT - single-cell NonEquilibrium Dynamics and Thermodynamics
 ===============================================================
 
 .. image:: https://github.com/Zhu-1998/scNEDT/blob/main/scNEDT.jpg
-   :width: 300px
    :align: center
 
 
