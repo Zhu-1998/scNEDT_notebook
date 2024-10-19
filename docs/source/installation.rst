@@ -1,7 +1,7 @@
 Installation
 ------------
 
-scNEDT requires Python 3.8 or later.
+scNEDT requires Python 3.9 or later.
 
 PyPI
 ^^^^
