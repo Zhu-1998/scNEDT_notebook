@@ -3,9 +3,8 @@
 scNEDT - single-cell NonEquilibrium Dynamics and Thermodynamics
 ===============================================================
 
-.. image:: https://github.com/Zhu-1998/scNEDT_notebook/blob/main/docs/source/_static/logo.png
-   :width: 300px
-   :align: left
+.. image:: https://github.com/Zhu-1998/scNEDT/blob/main/scNEDT.jpg
+   :align: center
 
 
 **scNEDT** is a scalable toolkit for NonEquilibrium Dynamical and Thermodynamical analysis in single cells, which
