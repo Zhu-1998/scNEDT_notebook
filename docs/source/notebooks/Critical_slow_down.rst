@@ -1,2 +1,2 @@
-About scNEDT
-------------
+Critical slow down
+------------------
