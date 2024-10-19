@@ -3,7 +3,7 @@
 scNEDT - single-cell NonEquilibrium Dynamics and Thermodynamics
 ===============================================================
 
-.. image:: https://github.com/Zhu-1998/scNEDT/blob/main/scNEDT.jpg
+.. image:: https://github.com/user-attachments/assets/b3d85262-5741-41ce-a35f-992c93b49b8f
    :align: center
 
 
