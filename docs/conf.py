@@ -26,7 +26,7 @@ sys.path.insert(0, os.path.abspath("../../"))
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ["_templates"]
 source_suffix = [".rst"]
-latex_additional_files = ['./source/notebooks/ref.bib']
+latex_additional_files = ['./notebooks/ref.bib']
 
 master_doc = "index"
 
