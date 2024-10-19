@@ -4,7 +4,8 @@ scNEDT - single-cell NonEquilibrium Dynamics and Thermodynamics
 ===============================================================
 
 .. image:: https://github.com/Zhu-1998/scNEDT/blob/main/scNEDT.jpg
-   :align: center
+   :width: 300px
+   :align: left
 
 
 **scNEDT** is a scalable toolkit for NonEquilibrium Dynamical and Thermodynamical analysis in single cells, which
@@ -54,31 +55,29 @@ Your help to improve scNEDT is highly appreciated.
    :maxdepth: 1
    :hidden:
 
-   Driving forces
-   Optimal path
-   Nonequilibrium thermodynamics
-   Nonequilibrium dynamics
-   Continuous dynamics based on reconstructed force fields
+   notebooks/Driving_forces
+   notebooks/Optimal_path
+   notebooks/Nonequilibrium_thermodynamics
+   notebooks/Nonequilibrium_dynamics
 
 .. toctree::
    :caption: DISCRETE DYNAMICS
    :maxdepth: 1
    :hidden:
 
-   Potential
-   Nonequilibrium thermodynamics
-   Loop flux decomposition
-   Discrete dynamics based on master equations
+   notebooks/Potential
+   notebooks/Thermodynamics
+   notebooks/Loop_flux_decomposition
 
 .. toctree::
    :caption: EARLY WARNING INDICATORS
    :maxdepth: 1
    :hidden:
 
-   Dynamic flux
-   Thermodynamical disspation
-   Critical slow down
-   Time reversal symmetry breaking
+   notebooks/Dynamic_flux
+   notebooks/Thermodynamical_disspation
+   notebooks/Critical_slow_down
+   notebooks/Time_reversal_symmetry_breaking
 
 
 .. |PyPI| image:: https://img.shields.io/pypi/v/scnedt.svg
