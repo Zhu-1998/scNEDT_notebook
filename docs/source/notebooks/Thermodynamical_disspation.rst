@@ -1,2 +1,2 @@
-About scNEDT
-------------
+Thermodynamical dissipation
+---------------------------
