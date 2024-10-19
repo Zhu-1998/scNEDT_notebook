@@ -26,7 +26,7 @@ sys.path.insert(0, os.path.abspath("../../"))
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ["_templates"]
 source_suffix = [".rst"]
-latex_additional_files = ['./notebooks/ref.bib']
+latex_additional_files = ['./source/notebooks/ref.bib']
 
 master_doc = "index"
 
@@ -50,7 +50,7 @@ master_doc = "index"
 
 # Add notebooks prolog to Google Colab and nbviewer
 nbsphinx_prolog = r"""
-{% set docname = 'github/Zhu-1998/scNEDT_notebook/blob/master/' + env.doc2path(env.docname, base=None) %}
+{% set docname = 'github/Zhu-1998/scNEDT/blob/master/' + env.doc2path(env.docname, base=None) %}
 .. raw:: html
     <div class="note">
       <a href="https://colab.research.google.com/{{ docname|e }}" target="_parent">
