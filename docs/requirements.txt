@@ -3,6 +3,7 @@ sphinx>=4.0.2
 sphinx-rtd-theme>=0.5.1
 sphinx_autodoc_typehints
 sphinxcontrib-bibtex
+sphinx-gallery
 
 # converting notebooks to html
 nbsphinx>=0.8.6
