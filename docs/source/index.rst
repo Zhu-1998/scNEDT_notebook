@@ -11,7 +11,7 @@ scNEDT - single-cell NonEquilibrium Dynamics and Thermodynamics
 **scNEDT** is a scalable toolkit for NonEquilibrium Dynamical and Thermodynamical analysis in single cells, which
 enables the recovery of the underlying driving force and physical mechanisms of cell functions. scNEDT collects two different
 methods for quantifying the nonequilibrium dynamics and thermodynamics by single-cell dynamic 
-force field reconstruction :cite:p:`Qiu2022` or master equation :cite:p:`Fang2020`.
+force field reconstruction or master equation :cite:p:`Fang2020`.
 
 scNEDT's key applications
 ^^^^^^^^^^^^^^^^^^^^^^^^^
