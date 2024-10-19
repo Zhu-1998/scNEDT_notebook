@@ -26,7 +26,7 @@ sys.path.insert(0, os.path.abspath("../../"))
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ["_templates"]
 source_suffix = [".rst"]
-
+latex_additional_files = ['./notebooks/ref.bib']
 
 master_doc = "index"
 
@@ -78,8 +78,8 @@ release = "0.0.1"
 
 # specify sphinx version
 needs_sphinx = "4"
-#bibtex_bibfiles = ['./notebooks/***.bib', './notebooks/***.bib']
-#bibtex_reference_style = "author_year"
+bibtex_bibfiles = ['./notebooks/ref.bib']
+bibtex_reference_style = "author_year"
 
 extensions = [
     "nbsphinx",
